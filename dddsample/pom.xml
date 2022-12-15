@@ -96,7 +96,7 @@
     <url>http://sourceforge.net/tracker2/?group_id=210606</url>
   </issueManagement>
   <properties>
-    <spring.version>2.5.1</spring.version>
+    <spring.version>5.2.20.RELEASE</spring.version>
   </properties>
   <build>
     <plugins>
